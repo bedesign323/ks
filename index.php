@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 	<head>
-		<title></title>
+		<title>Kanin Soffer, LLP | Trusts, Probate and Estate Planning</title>
 		
 		<link rel="stylesheet" href="css/style.css">
 
