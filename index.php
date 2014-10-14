@@ -53,7 +53,7 @@
 					<div class="inner">
 						<h1>Welcome</h1>
 						<div class="divider-top"></div>
-						<p><em>Kanin Soffer, LLP</em> is a Beverly Hills-based law firm that advises clients on estate planning, charitable planning, probate and trust administration.  We offer clients the personal service they expect of a specialized boutique firm, while providing the quality of work and attention to detail of highly trained attorneys with decades of combined experience.  Our clients range from high-net-worth families that require guidance on all aspects of transfer tax planning to new families seeking to establish foundational documents.  We strive to establish long-lasting relationships with our clients and instill in them the trust & confidence to consider us their family counselors. </p>
+						<p><em>Kanin Soffer, LLP</em> is a Beverly Hills-based law firm that advises clients on estate planning, charitable planning, probate and trust administration.  We offer clients the <em>personal service</em> they expect of a specialized boutique firm, while providing the quality of work and attention to detail of highly trained attorneys with decades of combined experience.  Our clients range from high-net-worth families that require guidance on all aspects of transfer tax planning to new families seeking to establish foundational documents.  We strive to establish long-lasting relationships with our clients and instill in them the <em>trust & confidence</em> to consider us their family counselors. </p>
 						<div class="divider-bot"></div>
 					</div>
 				</div>
