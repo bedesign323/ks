@@ -1,0 +1,79 @@
+/* VARS 
+-------------------------------------------------------------- */
+$main_width:      1200px;
+$body_pad:      20px;
+
+$bp_lg:           1400px;
+$bp_med:          850px;
+$bp_sm:           650px;
+
+/*  COLORS  */
+$color_main:         #41434b;                 
+$color_accent:       #6dafb9;              
+$color_main_lt:      #999;
+$color_error:        #b54747;
+$color_warning:      #f0da72;
+
+$page_bg:            #f2f1e8;
+$page_med:           #d9e7e9;
+$page_lt:            #c4e0e4;
+$page_dark:          #d9e7e9;
+
+/*  TYPOGROPHY */
+$font_main:         'LatoLight', sans-serif;
+$font_header:       'BankGothicBT-Light', sans-serif;
+$font_fancy:            'LatoItalic', sans-serif;
+
+$font_weight_lt:         100;
+$font_weight_reg:        400;
+$font_weight_bold:       700;
+
+/*  TRANSITIONS  */
+$trans:             .3s;
+$default-transition-property : all;
+$default-transition-duration : .3s;
+$default-transition-function : false;
+$default-transition-delay    : false;
+
+
+/* MIX-INS 
+-------------------------------------------------------------- */
+@mixin bp($point) {
+  @if $point == l {
+    @media (max-width: $bp_lg) { @content; }
+  }
+  @else if $point == m {
+    @media (max-width: $bp_med) { @content; }
+  }
+  @else if $point == s {
+    @media (max-width: $bp_sm)  { @content; }
+  }
+}
+
+
+
+/* PLACEHOLDERS & EXTENDS
+-------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
