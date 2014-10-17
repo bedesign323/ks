@@ -65,7 +65,7 @@
 						<h1>Services</h1>
 						<div class="divider-top"></div>
 						<h2>Estate Planning</h2>
-						<p>At Kanin Soffer, LLP, we draft estate plans that address each client’s individual circumstances. A well-executed estate plan can help families avoid unwanted probate and conservatorships, protect clients from paying unnecessary taxes and allow them to design and implement strategic approaches that best fit their unique needs and objectives.</p> 
+						<p>At Kanin Soffer, LLP, we draft estate plans that address each client's individual circumstances. A well-executed estate plan can help families avoid unwanted probate and conservatorships, protect clients from paying unnecessary taxes and allow them to design and implement strategic approaches that best fit their unique needs and objectives.</p> 
 
 						<p>Our estate planning services range from drafting wills and trusts for new families and business owners to preparing sophisticated strategies that maximize wealth transfer and minimize estate, gift and generation-skipping taxes. We take the time to understand our clients' businesses, enabling us to efficiently assist them on transferring control to future generations. We also draft charitable remainder and charitable lead trusts for clients who wish to incorporate charitable giving into their planning. </p>
 
