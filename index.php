@@ -125,7 +125,7 @@
 							</div>
 							<div class="info">
 								<div class="label">Location:</div>
-								<div class="data"><a href="https://goo.gl/maps/g7wfz">Link to Map</a></div>
+								<div class="data"><a href="https://goo.gl/maps/g7wfz" target="_blank">Link to Map</a></div>
 							</div>
 						</div>
 					</div>
