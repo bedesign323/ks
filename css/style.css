@@ -99,8 +99,9 @@ table {
   font-style: italic;
 }
 @font-face {
-  font-family: 'BankGothicBT-Light';
-  src: url("../fonts/BankGothicBT-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/BankGothicBT-Light.woff") format("woff"), url("../fonts/BankGothicBT-Light.ttf") format("truetype"), url("../fonts/BankGothicBT-Light.svg#BankGothicBT-Light") format("svg");
+  font-family: 'bankgothic_lt_btlight';
+  src: url("../fonts/bankgthl-webfont.eot");
+  src: url("../fonts/bankgthl-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/bankgthl-webfont.woff2") format("woff2"), url("../fonts/bankgthl-webfont.woff") format("woff"), url("../fonts/bankgthl-webfont.ttf") format("truetype"), url("../fonts/bankgthl-webfont.svg#bankgothic_lt_btlight") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -456,7 +457,7 @@ li.opened span.nolink {
 
 /* line 52, ../sass/style.scss */
 h1, h2, h3, h4 {
-  font-family: "BankGothicBT-Light", sans-serif;
+  font-family: "bankgothic_lt_btlight", sans-serif;
 }
 
 /* line 56, ../sass/style.scss */
@@ -859,7 +860,7 @@ em {
 
 /* line 408, ../sass/style.scss */
 #contact {
-  font-family: "BankGothicBT-Light", sans-serif;
+  font-family: "bankgothic_lt_btlight", sans-serif;
   text-align: center;
   margin-bottom: 0;
   padding-bottom: 80px;
@@ -896,31 +897,40 @@ em {
   float: left;
   width: 200px;
   margin-right: 40px;
+  z-index: 0;
+}
+/* line 447, ../sass/style.scss */
+#contact .contact .info {
+  position: relative;
+  display: block;
 }
 @media (max-width: 650px) {
-  /* line 449, ../sass/style.scss */
+  /* line 456, ../sass/style.scss */
   #contact h1 {
     font-size: 1.5em;
     letter-spacing: 0;
   }
-  /* line 454, ../sass/style.scss */
+  /* line 461, ../sass/style.scss */
   #contact .contact {
     font-size: 1.3em;
     text-align: center;
   }
-  /* line 458, ../sass/style.scss */
+  /* line 465, ../sass/style.scss */
   #contact .contact .label {
     width: auto;
     float: none;
     margin: 0;
+    z-index: 0;
   }
-  /* line 464, ../sass/style.scss */
+  /* line 472, ../sass/style.scss */
   #contact .contact .info {
     margin-bottom: 20px;
+    display: block;
+    position: relative;
   }
 }
 
-/* line 471, ../sass/style.scss */
+/* line 481, ../sass/style.scss */
 #footer {
   background-color: #41434b;
   color: #f2f1e8;
@@ -930,7 +940,7 @@ em {
   letter-spacing: 5px;
   font-size: .8em;
 }
-/* line 480, ../sass/style.scss */
+/* line 490, ../sass/style.scss */
 #footer .legal {
   letter-spacing: 0;
   max-width: 650px;
